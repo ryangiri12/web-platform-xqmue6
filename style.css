@@ -1,0 +1,10 @@
+html {
+  background:black;
+  color: white;
+  font-family: 'Jost', sans-serif;
+}
+img {
+  border-width: 10px;
+  border-color: red;
+  border-style: solid;
+}
